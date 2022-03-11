@@ -1,0 +1,43 @@
+title{
+    font-size: large;
+}
+body{
+
+    background-color: whitesmoke;
+    border: 1px;
+    border-style: solid;
+    border-color: blue;
+    font-size: 20px;
+    margin: 1px;
+}
+header{
+    background-color:lightblue;
+    margin : 1px;
+    
+    border: 100   px;
+    border-style: solid;
+    border-color: black;
+}
+ul.horizontal li{
+    display:block;
+    float:left;
+    padding:0 10px;
+}
+.head{
+    color: lightblue;
+}
+.cajas{
+    height: 300px;
+}
+.img{
+    width: 10%;
+    height: 10%;
+}
+.foto1,.foto2,.foto3{
+    background-color: white ;
+    height: 100px;
+    width: 200px;
+    float: left;
+    border: black;
+    border-style: solid;
+}
